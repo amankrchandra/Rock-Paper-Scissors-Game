@@ -12,7 +12,7 @@ const genComputerChoice = () => {
   const randIdx = Math.floor(Math.random() * 3);
   return options[randIdx];
 };
-
+// To draw
 const gameDraw = () => {
    msg.innerText = "Game DRAW , Play Again ";
      msg.style.backgroundColor = "grey";
