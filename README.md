@@ -55,7 +55,10 @@ git clone https://github.com/amankrchandra/rock-paper-scissors.git
 cd rock-paper-scissors
 open index.html
 ```
-📬 Contact Me
+📬 Contact Me 
+
 💼 LinkedIn: www.linkedin.com/in/amankrchandra
+
 ✉️ Email: amankrchandra@proton.me
+
 🧑‍💻 Portfolio (Coming soon)
