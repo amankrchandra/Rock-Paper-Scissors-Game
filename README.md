@@ -23,7 +23,7 @@ A modern, minimal and responsive **Rock Paper Scissors** game built with **HTML,
 ## ✨ Features
 
 - 🎮 Simple Interactive UI
-- 🧠 Basic AI opponent (random)
+- 🧠 Basic AI Opponent (random)
 - 🔄 Score tracking
 - ✅ Mobile-friendly design
 - 🎨 Smooth animations & feedback
