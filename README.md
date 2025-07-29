@@ -1,4 +1,4 @@
-# ✊✋✌️ Rock Paper Scissors - Web Game
+## ✊✋✌️ Rock Paper Scissors - Web Game
 
 A modern, minimal and responsive **Rock Paper Scissors** game built with **HTML, CSS & JavaScript**.
 
@@ -24,7 +24,7 @@ A modern, minimal and responsive **Rock Paper Scissors** game built with **HTML,
 
 - 🎮 Simple Interactive UI
 - 🧠 Basic AI Opponent (random)
-- 🔄 Score tracking
+- 🔄 Score Tracking
 - ✅ Mobile-friendly design
 - 🎨 Smooth animations & feedback
 
