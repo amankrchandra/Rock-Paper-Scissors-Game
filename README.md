@@ -51,6 +51,11 @@ A modern, minimal and responsive **Rock Paper Scissors** game built with **HTML,
 ## 🧑‍💻 Run Locally
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/amankrchandra/rock-paper-scissors.git
 cd rock-paper-scissors
 open index.html
+
+📬 Contact Me
+💼 LinkedIn: www.linkedin.com/in/amankrchandra
+✉️ Email: amankrchandra@gmail.com
+🧑‍💻 Portfolio (Coming soon)
