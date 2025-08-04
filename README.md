@@ -1,4 +1,4 @@
-## ✊✋✌️ Rock PapeScissors - Web Game
+## ✊✋✌️ Rock PaperScissors - Web Game
 
 A modern, minimal and responsive **Rock Paper Scissors** game built with **HTML, CSS & JavaScript**.
 
