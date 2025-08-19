@@ -30,7 +30,7 @@ A modern, minimal and responsive **Rock Paper Scissors** game built with **HTML,
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Screenshots
 
 | Game Start | Playing | Score Updated |
 |------------|---------|----------------|
