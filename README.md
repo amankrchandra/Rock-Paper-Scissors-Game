@@ -1,6 +1,6 @@
  ## ✊✋✌️ Rock Paper Scissors - Web Game
 
-A modern , minimal and responsive **Rock Paper Scissors** game built with **HTML, CSS & JavaScript**.
+A modern , inimal and responsive **Rock Paper Scissors** game built with **HTML, CSS & JavaScript**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-brightgreen" alt="status"/>
