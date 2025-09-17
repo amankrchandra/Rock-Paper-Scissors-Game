@@ -14,7 +14,7 @@ A modern , minimal and responsive **Rock Paper Scissors** game built with **HTML
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Dem
 
 🕹️ Play Now → [rock-paper-scissors-game.vercel.app](https://rock-paper-scissors-game-sooty-nine.vercel.app/)
 
